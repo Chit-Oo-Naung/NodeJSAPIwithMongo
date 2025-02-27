@@ -1,4 +1,4 @@
-#Installation Guide
+#Installation Guide for Linux Computer
 
 1. Install Node.js and npm with this command
 	sudo apt update
